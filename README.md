@@ -1,4 +1,4 @@
-# MediaPlayer Pure C++ functionalities:
+# C++ MediaPlayer functionalities:
 ## I. View list of media files in that folder and all sub-folder (audio and video)
 1. Pagination, 25 per page
 ## II. Playlists:
